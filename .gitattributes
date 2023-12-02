@@ -1,0 +1,2 @@
+nli/nli_model/* filter=lfs diff=lfs merge=lfs -text
+nli/nli_model/** filter=lfs diff=lfs merge=lfs -text

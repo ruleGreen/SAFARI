@@ -1,0 +1,15 @@
+*.pyc
+alpaca_chinese_dataset/
+output/
+temp_data/
+cache_data/
+test004/
+
+dialogue_input/
+dialogue_output/
+chatglm/
+belle-llama/
+belle-llama-new/
+belle-llama-fp16/
+chatglm_remove_both/
+chatglm_remove_plan/
